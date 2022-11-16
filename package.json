@@ -12,5 +12,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniAvazneli/picnic-node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AniAvazneli/picnic-node.js/issues"
+  },
+  "homepage": "https://github.com/AniAvazneli/picnic-node.js#readme",
   "description": ""
 }
